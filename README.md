@@ -1,4 +1,4 @@
-## Hi there I'm Emmanuel Olomitutu 👋
+## Hi there I'm Emmanuel 👋
 
 I am a Computer Science student at Caleb University, Lagos, actively learning and building expertise in software engineering with a strong interest in data science and AI engineering.
 
@@ -6,7 +6,7 @@ I am a Computer Science student at Caleb University, Lagos, actively learning an
 
 ### 💻 What I'm Working On
 * 🚀 **Daily Engineering Practice:** Track my continuous programming journey and 90+ day streak on my [Learning Timeline](https://www.freecodecamp.org/learner17539).
-* 🛠️ **Featured Project:** [Developing Multi-Input Models for OCR](INSERT_YOUR_DATACAMP_PROJECT_LINK_HERE)
+* 🛠️ **Featured Project:** [Developing Multi-Input Models for OCR](https://www.datacamp.com/datalab/w/6ce66622-1aad-4f66-8e49-8373dd319eae/edit)
   * Designed and built a multi-input machine learning architecture for Optical Character Recognition (OCR) leveraging Python and Machine Learning libraries.
 
 ---
