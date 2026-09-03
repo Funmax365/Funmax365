@@ -7,7 +7,7 @@ I am a Computer Science student at Caleb University, Lagos, actively learning an
 ### 💻 What I'm Working On
 * 🚀 **Daily Engineering Practice:** Track my continuous programming journey and 90+ day streak on my [Learning Timeline](https://www.freecodecamp.org/learner17539).
 * 🛠️ **Featured Project:** [Developed a multi-input model for Optical Character Recognition](https://www.datacamp.com/datalab/w/6ce66622-1aad-4f66-8e49-8373dd319eae/edit)
-  * Built a multi-input machine learning architecture for Optical Character Recognition (OCR), leveraging Python and Machine Learning libraries.
+  * I built a multi-input machine learning architecture for Optical Character Recognition (OCR), leveraging Python and Machine Learning libraries.
 
 ---
 
